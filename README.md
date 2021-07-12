@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### I'm a Data Scientist from Curitiba, Brazil.
 
 ##### BIO
