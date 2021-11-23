@@ -3,6 +3,6 @@
 ##### BIO
 
 - :computer: Bachelor in Computer Science (UFPR)
-- 💬 Ping me about **data**, **machine learning**
+- 💬 Ping me about **data engineering**, **machine learning**, **data science**, **game development**
 - 📫 Email: [brunohlabres@gmail.com](brunohlabres@gmail.com)
 - :rainbow: : LGBTQIA+
