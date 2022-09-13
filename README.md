@@ -1,5 +1,3 @@
-#### I'm a Computer Scientist from Curitiba, Brazil.
-
 ##### BIO
 
 - :computer: Bachelor in Computer Science (UFPR)
